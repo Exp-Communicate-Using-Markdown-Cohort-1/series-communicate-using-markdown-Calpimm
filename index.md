@@ -6,3 +6,8 @@
 ###### H6 | Example
 
 header types
+
+
+## Image Area
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
